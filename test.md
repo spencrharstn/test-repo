@@ -8,3 +8,6 @@ We're gonna run some git commands to see what we can do with this and learn all 
 
 ## This is a new section
 This will be added via Github desktop.
+
+## What about the command line?
+Well let's give this a try!
